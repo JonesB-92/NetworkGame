@@ -1,0 +1,8 @@
+out/
+.idea/
+*.iml
+*.class
+*.patch
+*.zip
+Thumbs.db
+.DS_Store
